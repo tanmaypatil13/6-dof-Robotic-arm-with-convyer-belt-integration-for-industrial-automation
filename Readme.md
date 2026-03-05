@@ -126,3 +126,10 @@ This project demonstrates:
 
 It bridges theoretical automation  knowledge with real-world automation implementation.
 
+## Credits
+
+- **STL models** for the robotic arm sourced from GrabCAD by *Bhuvaneshwaran S.*
+- Project concept and implementation by **Tanmay Patil**
+
+
+
