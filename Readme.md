@@ -129,6 +129,8 @@ It bridges theoretical automation  knowledge with real-world automation implemen
 ## Credits
 
 - **STL models** for the robotic arm sourced from GrabCAD by *Bhuvaneshwaran S.*
+- - for the conveyer belt stl files sourced from the thinverse by Conveyor belt / Cinta Transportadora
+by COLabVoxM2
 - Project concept and implementation by **Tanmay Patil**
 
 
